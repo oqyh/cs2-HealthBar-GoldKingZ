@@ -63,7 +63,7 @@ public class HealthBarHitMarkGoldKingZ : BasePlugin
     {
         try
         {
-            string filePath = $"{ModuleDirectory}/../../plugins/HealthBar-GoldKingZ/config/ServerPrecacheResources.txt";
+            string filePath = $"{ModuleDirectory}/../../plugins/HealthBar-HitMark-GoldKingZ/config/ServerPrecacheResources.txt";
 
             string[] lines = File.ReadAllLines(filePath);
 
